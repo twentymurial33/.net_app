@@ -1,0 +1,15 @@
+/Users/murial/code/.net_app/bin/Debug/net8.0/.net_app
+/Users/murial/code/.net_app/bin/Debug/net8.0/.net_app.deps.json
+/Users/murial/code/.net_app/bin/Debug/net8.0/.net_app.runtimeconfig.json
+/Users/murial/code/.net_app/bin/Debug/net8.0/.net_app.dll
+/Users/murial/code/.net_app/bin/Debug/net8.0/.net_app.pdb
+/Users/murial/code/.net_app/obj/Debug/net8.0/.net_app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/murial/code/.net_app/obj/Debug/net8.0/.net_app.AssemblyInfoInputs.cache
+/Users/murial/code/.net_app/obj/Debug/net8.0/.net_app.AssemblyInfo.cs
+/Users/murial/code/.net_app/obj/Debug/net8.0/.net_app.csproj.CoreCompileInputs.cache
+/Users/murial/code/.net_app/obj/Debug/net8.0/.net_app.sourcelink.json
+/Users/murial/code/.net_app/obj/Debug/net8.0/.net_app.dll
+/Users/murial/code/.net_app/obj/Debug/net8.0/refint/.net_app.dll
+/Users/murial/code/.net_app/obj/Debug/net8.0/.net_app.pdb
+/Users/murial/code/.net_app/obj/Debug/net8.0/.net_app.genruntimeconfig.cache
+/Users/murial/code/.net_app/obj/Debug/net8.0/ref/.net_app.dll
